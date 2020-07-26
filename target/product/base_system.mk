@@ -266,6 +266,8 @@ PRODUCT_PACKAGES += \
     wificond \
     wifi-service \
     wm \
+    rootfs-glibc \
+    server \
 
 # VINTF data for system image
 PRODUCT_PACKAGES += \
